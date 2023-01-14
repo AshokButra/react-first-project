@@ -1,0 +1,28 @@
+/* Write your code here. */
+body {
+  margin: 0px;
+}
+
+.container {
+  height: 100vh;
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f8fafc;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
